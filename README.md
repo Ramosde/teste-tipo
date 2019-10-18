@@ -1,6 +1,3 @@
-# PIII1920
-
-
 # Programação III / Programação de Computadores III  1920 #
 
 ## Links uteis ##
