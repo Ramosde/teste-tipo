@@ -15,7 +15,7 @@
 ## Slides ##
 
 
-[Swift 101](https://bitbucket.org/GoncaloaaF/piii1920/downloads/Swift%20101.pdf)
+[Swift 101](https://bitbucket.org/GoncaloaaF/piii1920/downloads/Swift_101.pdf)
 
 
 
@@ -29,6 +29,7 @@
 
 
 [Ficha1](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_funcs.pdf)
+
 
 
 
