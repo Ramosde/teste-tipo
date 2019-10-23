@@ -24,9 +24,9 @@
 
 ## Fichas de trabalho ##
 
+[ficha 0 - > revisões](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ficha_0.pdf)
 
-[Ficha1](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_funcs.pdf)
-
+[Ficha 1 - intrudução](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_funcs.pdf)
 
 
 
