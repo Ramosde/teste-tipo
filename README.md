@@ -19,7 +19,7 @@
 
 ### Exemplos  ###
 
-
+[Semana 2](https://bitbucket.org/GoncaloaaF/piii1920/downloads/Semana2.playground.zip)
 
 
 
