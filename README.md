@@ -7,7 +7,7 @@
 
 ## informações Importantes ##
 
-Por motivos de saude não cosigo ir lecionar a aula de PCIII ( Multimedia - Laboral ) de amanha dia 28/10/2019, postriormente seram marcadas aulas de compensasão 
+Por motivos de saude não cosigo ir lecionar a aula de PIII ( Informatica - PL (A e B) ) de hoje dia 29/10/2019, postriormente seram marcadas aulas de compensasão 
 
 
 ## Slides ##
