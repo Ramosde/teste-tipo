@@ -15,6 +15,7 @@ Caros Alunos ainda não estou a 100% contudo amanha( 30/10/2019) irei dar as aul
 8h-10h - Não havrea aula (sera compensada postriormente)
 
 10h-12h - havera aula normalmente 
+
 12h-14h - havera aula normalmente 
 
 22h-24h - havera aula normalmente 
