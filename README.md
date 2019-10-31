@@ -7,7 +7,7 @@
 
 ## informações Importantes ##
 
-Por motivos de saude não cosigo ir lecionar a aula de PIII ( Informatica - PL (A e B) ) de hoje dia 29/10/2019, postriormente seram marcadas aulas de compensasão 
+Por motivos de saude não cosigo ir lecionar a aula de PIII ( Informatica - PL (A e B) ) de hoje dia 29/10/2019, postriormente seram marcadas aulas de compensação 
 
 
 Caros Alunos ainda não estou a 100% contudo amanha( 30/10/2019) irei dar as aulas praticas
@@ -19,6 +19,9 @@ Caros Alunos ainda não estou a 100% contudo amanha( 30/10/2019) irei dar as aul
 12h-14h - havera aula normalmente 
 
 22h-24h - havera aula normalmente 
+
+
+Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alunos, como tal foi me pedido de desmarcasse a aula. ou seja hoje nao havera aula de PIII sera marcada uma aula de compensação 
 
 ## Slides ##
 
