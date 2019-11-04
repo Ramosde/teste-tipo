@@ -43,7 +43,7 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 
 [Ficha 1 - intrudução](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_funcs.pdf)
 
-
+[Ficha 2 - collections](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_collections.pdf)
 
 
 ## Trabalhos ##
