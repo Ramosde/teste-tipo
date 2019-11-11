@@ -28,6 +28,8 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 
 [Swift 101](https://bitbucket.org/GoncaloaaF/piii1920/downloads/Swift_101.pdf)
 
+[Classes](https://bitbucket.org/GoncaloaaF/piii1920/downloads/swift_class.pdf)
+
 
 
 
@@ -44,6 +46,8 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 [Ficha 1 - intrudução](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_funcs.pdf)
 
 [Ficha 2 - collections](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ISTEC_ficha_collections.pdf)
+
+[Ficha 3 - clss](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ficha_classes.pdf)
 
 
 ## Trabalhos ##
