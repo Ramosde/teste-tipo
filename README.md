@@ -37,6 +37,10 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 
 [Semana 2](https://bitbucket.org/GoncaloaaF/piii1920/downloads/Semana2.playground.zip)
 
+[Classes](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/demoClasses/)
+
+[Propriedades](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/demo_porp.swift)
+
 
 
 ## Fichas de trabalho ##
