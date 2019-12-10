@@ -2,6 +2,12 @@
 
 ## Links uteis ##
 
+[Tuturial para instalar VM](https://www.youtube.com/watch?v=lHCLFK2bDPM&t=186s)
+
+[E-Book de git](https://git-scm.com/book/en/v2)
+
+
+
 
 
 
