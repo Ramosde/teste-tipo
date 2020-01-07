@@ -47,6 +47,10 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 
 [Propriedades](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/demo_porp.swift)
 
+[Tabelas](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/Tabelas_PCIIIPL_v2/)
+
+
+
 
 
 ## Fichas de trabalho ##
