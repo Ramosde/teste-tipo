@@ -69,11 +69,12 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 [Ficha 3 - clss](https://bitbucket.org/GoncaloaaF/piii1920/downloads/ficha_classes.pdf)
 
 
-## Trabalhos ##
-
-
-
 ### Solução Fichas de trabalho ###
+
+
+[Sol Ficha 1](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/SolFichas/ficha1.playground/)
+
+[Sol Ficha 2](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/SolFichas/ficha2.playground/)
 
 
 
