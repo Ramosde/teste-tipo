@@ -47,8 +47,13 @@ Caros Alunos de PIII A PL fui informado que hj apenas iram comparecer 3 ou 4 alu
 
 [Propriedades](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/demo_porp.swift)
 
+[Intro Xcode](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/intro_xcode/)
+
 [Tabelas](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/Tabelas_PCIIIPL_v2/)
 
+[Tabelas - Custom Cell](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/tabelas_customCell/)
+
+[Teste Tipo](https://bitbucket.org/GoncaloaaF/piii1920/src/master/Exemplos/testeTipo_final/)
 
 
 
